@@ -1,7 +1,7 @@
 ## $ readelf ~/.local/share/Trash/libxzr
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RedPrez16&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
 
-- en_US.
+- United States of America English
 - An Android enthusiast
 - Current Device: Google Pixel 6 Pro
 - Interested in Android and Linux related stuff.
