@@ -19,6 +19,6 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ## Reach me
-[![Email](https://img.shields.io/badge/i%40xzr%2emoe-3873C4?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:contact@redbirdvirtual.com)
+[![Email](https://img.shields.io/badge/contact%40redbirdvirtual.com-3873C4?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:contact@redbirdvirtual.com)
 
-[![Telegram](https://img.shields.io/badge/%40libxzr-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Red_Prez16)
+[![Telegram](https://img.shields.io/badge/%40Red_Prez16-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Red_Prez16)
