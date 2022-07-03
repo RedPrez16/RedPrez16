@@ -1,5 +1,4 @@
-## $ readelf ~/.local/share/Trash/libxzr
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RedPrez16&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
+## $ readelf ~/redprez16
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RedPrez16&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
 
 
