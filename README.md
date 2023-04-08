@@ -7,7 +7,7 @@
 
 - An Android enthusiast
 
-- Current Device: iPhone 12 Pro Max
+- Current Device: Google Pixel 7 Pro 
 
 - Interested in Android and Linux related stuff.
 
