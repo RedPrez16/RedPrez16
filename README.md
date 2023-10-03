@@ -7,7 +7,7 @@
 
 - An Android enthusiast
 
-- Current Device: Google Pixel 7 Pro 
+- Current Device: Google Pixel 7a
 
 - Interested in Android and Linux related stuff.
 
